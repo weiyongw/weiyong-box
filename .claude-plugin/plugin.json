@@ -1,7 +1,7 @@
 {
-  "name": "weiyong-skills",
+  "name": "weiyong-box",
   "version": "0.1.0",
-  "description": "唯庸维护的 Agent Skills 合集。",
+  "description": "Weiyong Box · 唯庸创作盒，面向选题研究、图文写作和视频制作的 AI Skills 工具箱。",
   "author": {
     "name": "唯庸"
   }

@@ -4,14 +4,14 @@
     "name": "唯庸"
   },
   "metadata": {
-    "description": "唯庸的 Skills 插件市场。",
+    "description": "唯庸的内容创作插件市场。",
     "version": "0.1.0"
   },
   "plugins": [
     {
-      "name": "weiyong-skills",
+      "name": "weiyong-box",
       "source": "./",
-      "description": "唯庸维护的 Agent Skills 合集。"
+      "description": "Weiyong Box · 唯庸创作盒，面向选题研究、图文写作和视频制作的 AI Skills 工具箱。"
     }
   ]
 }
