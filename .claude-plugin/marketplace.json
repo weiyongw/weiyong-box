@@ -1,0 +1,17 @@
+{
+  "name": "weiyong",
+  "owner": {
+    "name": "唯庸"
+  },
+  "metadata": {
+    "description": "唯庸的 Skills 插件市场。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "weiyong-skills",
+      "source": "./",
+      "description": "唯庸维护的 Agent Skills 合集。"
+    }
+  ]
+}
